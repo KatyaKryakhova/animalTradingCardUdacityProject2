@@ -1,0 +1,32 @@
+.image {
+    margin: 10px 10px 10px 10px;
+    border-width: thin;
+    border-color: #ddd;
+}
+.fact {
+    font-style: italic;
+}
+.header {
+    margin-left: 10px;
+    text-align: center;
+}
+.list-item {
+    font-weight: bold;
+}
+.general-info {
+    list-style-type: none;
+    padding-left: 0px;
+}
+.animal-card {
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    width: 320px;
+    box-shadow: 5px 5px 5px #ddd;
+    background-color: #709dad;
+}
+.text {
+    border: thin solid #ddd;
+    margin: 10px;
+    padding: 0px 10px;
+    background-color: #bdd3dc;
+}
